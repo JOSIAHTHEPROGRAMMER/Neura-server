@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/60fd5142-6ec3-456a-80f9-9c6f3a04fc70" alt="Neura Logo" width="100%" style="background: linear-gradient(to bottom, #1b1a23, #000000); padding: 20px; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/75544b17-7ce1-4862-bb34-87d388807df7" alt="Neura Logo" width="100%" style="background: linear-gradient(to bottom, #1b1a23, #000000); padding: 20px; border-radius: 10px;">
 
 # NEURA SERVER
 
